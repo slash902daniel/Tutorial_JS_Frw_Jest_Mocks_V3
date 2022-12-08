@@ -1,10 +1,8 @@
 # BASED IN TUTORIAL
 https://www.youtube.com/watch?v=gA-uNj2FgdM
 
-## HOW TO RUN EXAMPLE 1 and 2
-npm test  -- --watch
-
-## HOW TO RUN EXAMPLE 3
+## HOW TO RUN EXAMPLEs
+npm t -- --watch
 
 
 # OTHER EXECS TYPES --------------------------------------------------------------
